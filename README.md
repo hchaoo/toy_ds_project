@@ -1,3 +1,3 @@
 # toy_ds_project
-project creation date: february 9, 2021
-author: harmony chao
+project creation date: February 9, 2021
+author: Harmony Chao
